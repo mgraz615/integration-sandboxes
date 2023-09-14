@@ -14,3 +14,6 @@ There's a couple of advatages that having all the integration tests sandboxes in
 - add the sandbox files in a new folder in the root of this repository
 - add the sandbox to the [integration tests](https://github.com/codesandbox/codesandbox-client/blob/master/packages/app/integration-tests/tests/sandboxes.test.js)
 - generate the correct sandbox snapshot *(to be documented)*
+
+
+simple change for pr
